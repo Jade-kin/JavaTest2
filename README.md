@@ -1,6 +1,6 @@
 ## 使用说明
 
-## 一、Exam2需要根据Exam2中的READNE提示操作
+## 一、Exam2需要根据Exam2中的README提示操作
 
 ## 二、用IDEA打开项目
 ### 1. clone代码
